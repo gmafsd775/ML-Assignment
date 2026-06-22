@@ -6,9 +6,9 @@ Salary Prediction using Machine Learning
 ---
 
 ##  Student Information
-- Name: Your Name Here  
+- Name: Ahmed Nawaz
 - Course: Machine Learning / AI  
-- Institute: Your Institute Name  
+- Instructor: Sir Zafar Iqbal  
 
 ---
 
@@ -53,7 +53,7 @@ Model predicts salary based on years of experience.
 
 ---
 
-##  Repository Link
+##  Repository Link   https://github.com/gmafsd775/ML-Assignment
 This repository contains all required files for the assignment.
 
 ---
