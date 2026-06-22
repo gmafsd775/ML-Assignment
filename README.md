@@ -53,8 +53,9 @@ Model predicts salary based on years of experience.
 
 ---
 
-##  Repository Link   https://github.com/gmafsd775/ML-Assignment
+##  Repository Link   
 This repository contains all required files for the assignment.
+https://github.com/gmafsd775/ML-Assignment
 
 ---
 
