@@ -6,9 +6,9 @@ Salary Prediction using Machine Learning
 ---
 
 ##  Student Information
-- Name: Your Name Here  
+- Name: Ahmed Nawaz  
 - Course: Machine Learning / AI  
-- Institute: Your Institute Name  
+- Instructor: Zafar Iqbal 
 
 ---
 
